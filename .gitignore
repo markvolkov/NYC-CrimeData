@@ -1,2 +1,9 @@
 *.csv
 *.json
+.idea/
+target/
+*.js
+*.kml
+*.db
+.DS_STORE
+*.iml
